@@ -1,0 +1,62 @@
+version: '0.2'
+name: yacy-masterplan
+services: 
+  yacy-server:
+    image: yacy/yacy_search_server:latest
+    container_name: yacy-server
+    hostname: yacy-server
+    ports:
+      - "8092:8092"
+      - "8444:8444"
+    expose:
+      - "8092"
+
+  yacy-cf-backend:
+    image: dul800/yacy_cf_backend:auto_wl
+    container_name: yacy-cf-backend
+    hostname: yacy-cf-backend
+    ports:
+      - "3002:3002"
+      - "8192:8192"
+    expose:
+      - "3002"
+      - "8192"
+    depends_on:
+      - yacy-server
+    restart: always
+    environment:
+      - FLASK_ENV=development
+      - YACY_USERNAME=admin
+      - YACY_PASSWORD=yacy
+      - YACY_PORT=8092
+      - YACY_SERVICE=yacy-server
+      - SERVER_FLASK_HOST=0.0.0.0
+      - SERVER_FLASK_PORT=3002
+      - SOCKET_HOST=0.0.0.0
+      - SOCKET_PORT=8192
+      - DEBUG_ONLY_LISTEN=0
+      - DEBUG_AUTO_WHITELIST=1
+      - DEBUG_AUTO_WHITELIST_NUM_NODES=0
+    volumes:
+      - ./evaluation_results:/yacy_cf_backend/resources/data
+      - ./histories:/yacy_cf_backend/resources/history
+      - ./whitelist:/yacy_cf_backend/resources/whitelist
+
+  yacy-cf-frontend:
+    image: dul800/yacy_cf_frontend:latest
+    container_name: yacy-cf-frontend
+    ports:
+      - "4000:4000"
+    expose:
+      - "4000"
+    depends_on:
+      - yacy-cf-backend
+    restart: always
+    environment:
+      - REACT_APP_API_PORT=3002
+      - REACT_APP_BACKEND_ADDRESS=localhost
+      - PORT=4000
+
+volumes:
+  evaluation_results:
+    
