@@ -1,0 +1,200 @@
+{
+    "history": [
+        {
+            "query": "bioinformatics",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Bioinformatics",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/bioinformatics",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "stem cell research",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Stem_cell_research",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nih.gov/research-training/stem-cell-research",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "cloud computing",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Cloud_computing",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/cloud-computing",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "microbiology",
+            "results": [
+                {
+                    "link": "https://www.asm.org/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Microbiology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "geology",
+            "results": [
+                {
+                    "link": "https://www.usgs.gov/",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.britannica.com/science/geology",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "CRISPR technology",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/CRISPR",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.britannica.com/technology/CRISPR",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "machine learning algorithms",
+            "results": [
+                {
+                    "link": "https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://towardsdatascience.com/machine-learning-algorithms-24eec0c117d4",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "proteomics",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Proteomics",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nature.com/proteomics",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "quantum entanglement",
+            "results": [
+                {
+                    "link": "https://www.scientificamerican.com/article/quantum-entanglement/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nature.com/articles/446021a",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "quantum mechanics",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Quantum_mechanics",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://plato.stanford.edu/entries/qm/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "renewable water resources",
+            "results": [
+                {
+                    "link": "https://www.unwater.org/water-facts/renewable-resources",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.weforum.org/agenda/2019/08/5-innovative-solutions-to-water-scarcity/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "paleoclimatology",
+            "results": [
+                {
+                    "link": "https://www.ncdc.noaa.gov/data-access/paleoclimatology-data",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.britannica.com/science/paleoclimatology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "genome editing",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Genome_editing",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nature.com/genome-editing",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "machine learning",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Machine_learning",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/machine-learning",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        }
+    ]
+}

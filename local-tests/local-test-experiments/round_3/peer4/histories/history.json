@@ -1,0 +1,208 @@
+{
+    "history": [
+        {
+            "query": "anthropology",
+            "results": [
+                {
+                    "link": "https://www.americananthro.org/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Anthropology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "deep learning",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Deep_learning",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.deeplearning.ai/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "artificial intelligence ethics",
+            "results": [
+                {
+                    "link": "https://www.weforum.org/agenda/2020/10/ai-ethics-artificial-intelligence/",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.brookings.edu/research/ai-ethics/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "oceanography",
+            "results": [
+                {
+                    "link": "https://oceanexplorer.noaa.gov/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Oceanography",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "big data",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Big_data",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/analytics/big-data-analytics",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "medieval history",
+            "results": [
+                {
+                    "link": "https://www.history.com/topics/middle-ages",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.britannica.com/event/Middle-Ages",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.medievalists.net/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 6
+        },
+        {
+            "query": "cybersecurity",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Cybersecurity",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/security/cybersecurity",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "bioethics",
+            "results": [
+                {
+                    "link": "https://www.bioethics.net/",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://bioethics.hms.harvard.edu/",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://www.nuffieldbioethics.org/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "stem cell research",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Stem_cell_research",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nih.gov/research-training/stem-cell-research",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "cloud computing",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Cloud_computing",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/cloud-computing",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "precision medicine",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Precision_medicine",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nih.gov/research-training/precision-medicine",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "nanomedicine",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Nanomedicine",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.nature.com/nanomedicine",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "robotics",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Robotics",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/robotics",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "artificial intelligence",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/what-is-artificial-intelligence",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        }
+    ]
+}

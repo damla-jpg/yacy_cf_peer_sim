@@ -1,0 +1,212 @@
+{
+    "history": [
+        {
+            "query": "cybersecurity",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Cybersecurity",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/security/cybersecurity",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "biotechnology",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Biotechnology",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.britannica.com/science/biotechnology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "renewable materials",
+            "results": [
+                {
+                    "link": "https://www.britannica.com/science/renewable-resource",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.energy.gov/eere/bioenergy/renewable-materials",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://www.sciencedirect.com/topics/chemistry/renewable-material",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "marine biology",
+            "results": [
+                {
+                    "link": "https://www.marinebio.org/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://ocean.si.edu/marine-life",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "astrobiology",
+            "results": [
+                {
+                    "link": "https://astrobiology.nasa.gov/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.sciencedirect.com/topics/earth-and-planetary-sciences/astrobiology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "robotics",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Robotics",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/robotics",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "CRISPR technology",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/CRISPR",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.britannica.com/technology/CRISPR",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "paleontology",
+            "results": [
+                {
+                    "link": "https://www.nhm.ac.uk/discover/paleontology.html",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://www.ucmp.berkeley.edu/",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://www.smithsonianmag.com/science-nature/paleontology/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "stem cell research",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Stem_cell_research",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nih.gov/research-training/stem-cell-research",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "quantum mechanics",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Quantum_mechanics",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://plato.stanford.edu/entries/qm/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "linguistics",
+            "results": [
+                {
+                    "link": "https://www.linguisticsociety.org/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Linguistics",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "machine vision",
+            "results": [
+                {
+                    "link": "https://www.machvision.com/",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://www.ni.com/en-us/innovations/machine-vision.html",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Machine_vision",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "digital twins",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Digital_twin",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/digital-twin",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "proteomics",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Proteomics",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nature.com/proteomics",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        }
+    ]
+}

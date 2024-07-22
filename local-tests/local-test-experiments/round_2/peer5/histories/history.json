@@ -1,0 +1,204 @@
+{
+    "history": [
+        {
+            "query": "cosmology",
+            "results": [
+                {
+                    "link": "https://www.cfa.harvard.edu/research/topic/cosmology",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.space.com/cosmology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "proteomics",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Proteomics",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nature.com/proteomics",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "renewable energy storage",
+            "results": [
+                {
+                    "link": "https://www.energy.gov/eere/renewable-energy-storage",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.sciencedirect.com/topics/engineering/renewable-energy-storage",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "neuroscience",
+            "results": [
+                {
+                    "link": "https://www.neurosciencenews.com/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nih.gov/health-information/your-healthiest-self-wellness-toolkits",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "smart cities",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Smart_city",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/smarterplanet/us/en/smarter_cities/overview/",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "geology",
+            "results": [
+                {
+                    "link": "https://www.usgs.gov/",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.britannica.com/science/geology",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "cryptocurrency",
+            "results": [
+                {
+                    "link": "https://www.coindesk.com/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.investopedia.com/terms/c/cryptocurrency.asp",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "stem cell research",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Stem_cell_research",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nih.gov/research-training/stem-cell-research",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "sustainable development",
+            "results": [
+                {
+                    "link": "https://sdgs.un.org/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.worldbank.org/en/topic/sustainabledevelopment",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "virtual reality",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Virtual_reality",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/virtual-reality",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "biotechnology",
+            "results": [
+                {
+                    "link": "https://www.britannica.com/science/biotechnology",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.bio.org/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "medieval history",
+            "results": [
+                {
+                    "link": "https://www.history.com/topics/middle-ages",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.britannica.com/event/Middle-Ages",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.medievalists.net/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 6
+        },
+        {
+            "query": "artificial intelligence ethics",
+            "results": [
+                {
+                    "link": "https://www.weforum.org/agenda/2020/10/ai-ethics-artificial-intelligence/",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.brookings.edu/research/ai-ethics/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "biofuel",
+            "results": [
+                {
+                    "link": "https://www.energy.gov/eere/bioenergy/biofuels",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ieabioenergy.com/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+{
+    "history": [
+        {
+            "query": "data science",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Data_science",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/data-science-intro",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "machine learning",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Machine_learning",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/machine-learning",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "marine biology",
+            "results": [
+                {
+                    "link": "https://www.marinebio.org/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://ocean.si.edu/marine-life",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "paleontology",
+            "results": [
+                {
+                    "link": "https://www.nhm.ac.uk/discover/paleontology.html",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://www.ucmp.berkeley.edu/",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://www.smithsonianmag.com/science-nature/paleontology/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "climate change",
+            "results": [
+                {
+                    "link": "https://www.un.org/en/climatechange/what-is-climate-change",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://climate.nasa.gov/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "astrobiology",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Astrobiology",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://astrobiology.nasa.gov/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "machine vision",
+            "results": [
+                {
+                    "link": "https://www.machvision.com/",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://www.ni.com/en-us/innovations/machine-vision.html",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Machine_vision",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "gene therapy",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Gene_therapy",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nih.gov/health-information/gene-therapy",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "artificial intelligence ethics",
+            "results": [
+                {
+                    "link": "https://www.weforum.org/agenda/2020/10/ai-ethics-artificial-intelligence/",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.brookings.edu/research/ai-ethics/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "genome editing",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Genome_editing",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nature.com/genome-editing",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "virtual reality",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Virtual_reality",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/virtual-reality",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "genomic data",
+            "results": [
+                {
+                    "link": "https://www.ncbi.nlm.nih.gov/genbank/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Genomics_Data",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "astrophysics",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Astrophysics",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nasa.gov/astrophysics",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "renewable water resources",
+            "results": [
+                {
+                    "link": "https://www.unwater.org/water-facts/renewable-resources",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.weforum.org/agenda/2019/08/5-innovative-solutions-to-water-scarcity/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        }
+    ]
+}

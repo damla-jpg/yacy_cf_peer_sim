@@ -1,0 +1,204 @@
+{
+    "history": [
+        {
+            "query": "machine learning algorithms",
+            "results": [
+                {
+                    "link": "https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://towardsdatascience.com/machine-learning-algorithms-24eec0c117d4",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "biotechnology",
+            "results": [
+                {
+                    "link": "https://www.britannica.com/science/biotechnology",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.bio.org/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "renewable energy",
+            "results": [
+                {
+                    "link": "https://www.energy.gov/science-innovation/clean-energy",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.iea.org/topics/renewables",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "nanomedicine",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Nanomedicine",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.nature.com/nanomedicine",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "edge computing",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Edge_computing",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/edge-computing",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "quantum cryptography",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Quantum_cryptography",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/quantum/quantum-cryptography",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "gene therapy",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Gene_therapy",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nih.gov/health-information/gene-therapy",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "paleontology",
+            "results": [
+                {
+                    "link": "https://www.nhm.ac.uk/discover/paleontology.html",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://www.ucmp.berkeley.edu/",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://www.smithsonianmag.com/science-nature/paleontology/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "cryptocurrency",
+            "results": [
+                {
+                    "link": "https://www.coindesk.com/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.investopedia.com/terms/c/cryptocurrency.asp",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "CRISPR technology",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/CRISPR",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.britannica.com/technology/CRISPR",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "neuroscience",
+            "results": [
+                {
+                    "link": "https://www.neurosciencenews.com/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nih.gov/health-information/your-healthiest-self-wellness-toolkits",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "climate change",
+            "results": [
+                {
+                    "link": "https://www.un.org/en/climatechange/what-is-climate-change",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://climate.nasa.gov/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "nanotechnology",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Nanotechnology",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/nanotechnology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "artificial intelligence ethics",
+            "results": [
+                {
+                    "link": "https://www.weforum.org/agenda/2020/10/ai-ethics-artificial-intelligence/",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.brookings.edu/research/ai-ethics/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+{
+    "history": [
+        {
+            "query": "biotechnology",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Biotechnology",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.britannica.com/science/biotechnology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "genomics",
+            "results": [
+                {
+                    "link": "https://www.genome.gov/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Genomics",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "data science",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Data_science",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/data-science-intro",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "machine vision",
+            "results": [
+                {
+                    "link": "https://www.machvision.com/",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://www.ni.com/en-us/innovations/machine-vision.html",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Machine_vision",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "fintech",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Financial_technology",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/fintech",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "astrophysics",
+            "results": [
+                {
+                    "link": "https://www.nasa.gov/subject/6897/astrophysics/",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://astrophysics.gsfc.nasa.gov/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "deep learning",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Deep_learning",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.deeplearning.ai/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "renewable water resources",
+            "results": [
+                {
+                    "link": "https://www.unwater.org/water-facts/renewable-resources",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.weforum.org/agenda/2019/08/5-innovative-solutions-to-water-scarcity/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "human-computer interaction",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://hci.stanford.edu/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "synthetic biology",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Synthetic_biology",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.nature.com/syntheticbiology",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "classical music",
+            "results": [
+                {
+                    "link": "https://www.classicfm.com/discover-music/latest/classical-music/",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.bbc.co.uk/music/genres/classical",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://www.gramophone.co.uk/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "astrophysics",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Astrophysics",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nasa.gov/astrophysics",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "climate change",
+            "results": [
+                {
+                    "link": "https://www.un.org/en/climatechange/what-is-climate-change",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://climate.nasa.gov/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "big data",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Big_data",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/analytics/big-data-analytics",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        }
+    ]
+}

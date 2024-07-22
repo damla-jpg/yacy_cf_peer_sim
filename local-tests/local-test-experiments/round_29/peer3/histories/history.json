@@ -1,0 +1,208 @@
+{
+    "history": [
+        {
+            "query": "genomics",
+            "results": [
+                {
+                    "link": "https://www.genome.gov/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Genomics",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "renewable energy storage",
+            "results": [
+                {
+                    "link": "https://www.energy.gov/eere/renewable-energy-storage",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.sciencedirect.com/topics/engineering/renewable-energy-storage",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "renewable materials",
+            "results": [
+                {
+                    "link": "https://www.britannica.com/science/renewable-resource",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.energy.gov/eere/bioenergy/renewable-materials",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://www.sciencedirect.com/topics/chemistry/renewable-material",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "data science",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Data_science",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/data-science-intro",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "artificial intelligence",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/what-is-artificial-intelligence",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "oceanography",
+            "results": [
+                {
+                    "link": "https://oceanexplorer.noaa.gov/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Oceanography",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "urban planning",
+            "results": [
+                {
+                    "link": "https://www.planning.org/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.planetizen.com/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "astrophysics",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Astrophysics",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nasa.gov/astrophysics",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "blockchain",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Blockchain",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/blockchain/what-is-blockchain",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "biofuel",
+            "results": [
+                {
+                    "link": "https://www.energy.gov/eere/bioenergy/biofuels",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ieabioenergy.com/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "bioethics",
+            "results": [
+                {
+                    "link": "https://www.bioethics.net/",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://bioethics.hms.harvard.edu/",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://www.nuffieldbioethics.org/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "climate change",
+            "results": [
+                {
+                    "link": "https://www.un.org/en/climatechange/what-is-climate-change",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://climate.nasa.gov/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "quantum entanglement",
+            "results": [
+                {
+                    "link": "https://www.scientificamerican.com/article/quantum-entanglement/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nature.com/articles/446021a",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "bioinformatics",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Bioinformatics",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/bioinformatics",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        }
+    ]
+}

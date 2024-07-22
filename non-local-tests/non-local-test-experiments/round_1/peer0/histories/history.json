@@ -1,0 +1,200 @@
+{
+    "history": [
+        {
+            "query": "computational chemistry",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Computational_chemistry",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nature.com/computationalchemistry",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "genomics",
+            "results": [
+                {
+                    "link": "https://www.genome.gov/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Genomics",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "nanomedicine",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Nanomedicine",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.nature.com/nanomedicine",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "genetic engineering",
+            "results": [
+                {
+                    "link": "https://www.britannica.com/science/genetic-engineering",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.genome.gov/about-genomics/fact-sheets/Genetic-Engineering",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "biofuel",
+            "results": [
+                {
+                    "link": "https://www.energy.gov/eere/bioenergy/biofuels",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ieabioenergy.com/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "deep learning",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Deep_learning",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.deeplearning.ai/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "cryptocurrency",
+            "results": [
+                {
+                    "link": "https://www.coindesk.com/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.investopedia.com/terms/c/cryptocurrency.asp",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "art history",
+            "results": [
+                {
+                    "link": "https://www.khanacademy.org/humanities/art-history",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.metmuseum.org/art/metpublications/titles-with-full-text-online",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "machine learning algorithms",
+            "results": [
+                {
+                    "link": "https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://towardsdatascience.com/machine-learning-algorithms-24eec0c117d4",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "fintech",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Financial_technology",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/fintech",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "microbiology",
+            "results": [
+                {
+                    "link": "https://www.asm.org/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Microbiology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "biomaterials",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Biomaterial",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.sciencedirect.com/topics/materials-science/biomaterials",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "machine learning",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Machine_learning",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/machine-learning",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "biotechnology",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Biotechnology",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.britannica.com/science/biotechnology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        }
+    ]
+}

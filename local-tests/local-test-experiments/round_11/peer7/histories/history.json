@@ -1,0 +1,208 @@
+{
+    "history": [
+        {
+            "query": "neural networks",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Artificial_neural_network",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/neural-networks",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "ancient civilizations",
+            "results": [
+                {
+                    "link": "https://www.history.com/topics/ancient-history",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nationalgeographic.com/history/history-of-civilization",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.khanacademy.org/humanities/world-history/ancient-medieval",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "bioinformatics",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Bioinformatics",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/bioinformatics",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "geology",
+            "results": [
+                {
+                    "link": "https://www.usgs.gov/",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.britannica.com/science/geology",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "renewable materials",
+            "results": [
+                {
+                    "link": "https://www.britannica.com/science/renewable-resource",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.energy.gov/eere/bioenergy/renewable-materials",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://www.sciencedirect.com/topics/chemistry/renewable-material",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "machine learning",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Machine_learning",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/machine-learning",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "quantum entanglement",
+            "results": [
+                {
+                    "link": "https://www.scientificamerican.com/article/quantum-entanglement/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nature.com/articles/446021a",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "fintech",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Financial_technology",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/fintech",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "evolutionary biology",
+            "results": [
+                {
+                    "link": "https://evolution.berkeley.edu/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nature.com/subjects/evolutionary-biology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "genomic data",
+            "results": [
+                {
+                    "link": "https://www.ncbi.nlm.nih.gov/genbank/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Genomics_Data",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "cryptocurrency",
+            "results": [
+                {
+                    "link": "https://www.coindesk.com/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.investopedia.com/terms/c/cryptocurrency.asp",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "synthetic biology",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Synthetic_biology",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.nature.com/syntheticbiology",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "augmented reality",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Augmented_reality",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/augmented-reality",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "nanomedicine",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Nanomedicine",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.nature.com/nanomedicine",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        }
+    ]
+}

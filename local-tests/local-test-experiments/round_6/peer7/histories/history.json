@@ -1,0 +1,200 @@
+{
+    "history": [
+        {
+            "query": "neural networks",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Artificial_neural_network",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/neural-networks",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "quantum computing",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Quantum_computing",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/quantum-computing/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "quantum mechanics",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Quantum_mechanics",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://plato.stanford.edu/entries/qm/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "linguistics",
+            "results": [
+                {
+                    "link": "https://www.linguisticsociety.org/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Linguistics",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "5G technology",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/5G",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/5g",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "genomics",
+            "results": [
+                {
+                    "link": "https://www.genome.gov/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Genomics",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "quantum entanglement",
+            "results": [
+                {
+                    "link": "https://www.scientificamerican.com/article/quantum-entanglement/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nature.com/articles/446021a",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "artificial intelligence",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/what-is-artificial-intelligence",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "microbiome",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Microbiome",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nature.com/microbiome",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "machine learning",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Machine_learning",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/machine-learning",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "bioinformatics",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Bioinformatics",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/bioinformatics",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "gene therapy",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Gene_therapy",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nih.gov/health-information/gene-therapy",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "microbiology",
+            "results": [
+                {
+                    "link": "https://www.asm.org/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Microbiology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "astrobiology",
+            "results": [
+                {
+                    "link": "https://astrobiology.nasa.gov/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.sciencedirect.com/topics/earth-and-planetary-sciences/astrobiology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        }
+    ]
+}

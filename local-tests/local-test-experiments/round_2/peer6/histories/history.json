@@ -1,0 +1,200 @@
+{
+    "history": [
+        {
+            "query": "cryptocurrency",
+            "results": [
+                {
+                    "link": "https://www.coindesk.com/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.investopedia.com/terms/c/cryptocurrency.asp",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "fintech",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Financial_technology",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/fintech",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "renewable water resources",
+            "results": [
+                {
+                    "link": "https://www.unwater.org/water-facts/renewable-resources",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.weforum.org/agenda/2019/08/5-innovative-solutions-to-water-scarcity/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "artificial intelligence ethics",
+            "results": [
+                {
+                    "link": "https://www.weforum.org/agenda/2020/10/ai-ethics-artificial-intelligence/",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.brookings.edu/research/ai-ethics/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "smart cities",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Smart_city",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/smarterplanet/us/en/smarter_cities/overview/",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "quantum computing",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Quantum_computing",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/quantum-computing/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "quantum entanglement",
+            "results": [
+                {
+                    "link": "https://www.scientificamerican.com/article/quantum-entanglement/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nature.com/articles/446021a",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "digital twins",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Digital_twin",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/digital-twin",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "deep learning",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Deep_learning",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.deeplearning.ai/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "bioinformatics tools",
+            "results": [
+                {
+                    "link": "https://www.ncbi.nlm.nih.gov/tools/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/List_of_bioinformatics_tools",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "CRISPR technology",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/CRISPR",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.britannica.com/technology/CRISPR",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "urban planning",
+            "results": [
+                {
+                    "link": "https://www.planning.org/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.planetizen.com/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "internet of things",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Internet_of_things",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/blog/internet-of-things",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "astrophysics",
+            "results": [
+                {
+                    "link": "https://www.nasa.gov/subject/6897/astrophysics/",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://astrophysics.gsfc.nasa.gov/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        }
+    ]
+}

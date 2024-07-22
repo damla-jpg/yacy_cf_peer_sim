@@ -1,0 +1,204 @@
+{
+    "history": [
+        {
+            "query": "data science",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Data_science",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/data-science-intro",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "synthetic biology",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Synthetic_biology",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.nature.com/syntheticbiology",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "smart cities",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Smart_city",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/smarterplanet/us/en/smarter_cities/overview/",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "quantum entanglement",
+            "results": [
+                {
+                    "link": "https://www.scientificamerican.com/article/quantum-entanglement/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nature.com/articles/446021a",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "computational biology",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Computational_biology",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nature.com/computationalbiology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "quantum computing",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Quantum_computing",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/quantum-computing/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "fintech",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Financial_technology",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/fintech",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "urban planning",
+            "results": [
+                {
+                    "link": "https://www.planning.org/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.planetizen.com/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "quantum cryptography",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Quantum_cryptography",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/quantum/quantum-cryptography",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "modern art",
+            "results": [
+                {
+                    "link": "https://www.moma.org/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.tate.org.uk/art/modern-art",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.artsy.net/gene/modern-art",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "artificial intelligence",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/what-is-artificial-intelligence",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "human-computer interaction",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://hci.stanford.edu/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "deep learning",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Deep_learning",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.deeplearning.ai/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "renewable energy",
+            "results": [
+                {
+                    "link": "https://www.energy.gov/science-innovation/clean-energy",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.iea.org/topics/renewables",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 4
+        }
+    ]
+}

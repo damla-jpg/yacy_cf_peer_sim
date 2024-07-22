@@ -1,0 +1,200 @@
+{
+    "history": [
+        {
+            "query": "internet of things",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Internet_of_things",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/blog/internet-of-things",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "sustainable development",
+            "results": [
+                {
+                    "link": "https://sdgs.un.org/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.worldbank.org/en/topic/sustainabledevelopment",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "neural networks",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Artificial_neural_network",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/neural-networks",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "cloud computing",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Cloud_computing",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/cloud-computing",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "robotics",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Robotics",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/robotics",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "artificial intelligence ethics",
+            "results": [
+                {
+                    "link": "https://www.weforum.org/agenda/2020/10/ai-ethics-artificial-intelligence/",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.brookings.edu/research/ai-ethics/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "artificial intelligence",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/what-is-artificial-intelligence",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "self-driving cars",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Self-driving_car",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/self-driving-cars",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "renewable water resources",
+            "results": [
+                {
+                    "link": "https://www.unwater.org/water-facts/renewable-resources",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.weforum.org/agenda/2019/08/5-innovative-solutions-to-water-scarcity/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "computational chemistry",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Computational_chemistry",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nature.com/computationalchemistry",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "big data",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Big_data",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/analytics/big-data-analytics",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "evolutionary biology",
+            "results": [
+                {
+                    "link": "https://evolution.berkeley.edu/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nature.com/subjects/evolutionary-biology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "genetic engineering",
+            "results": [
+                {
+                    "link": "https://www.britannica.com/science/genetic-engineering",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.genome.gov/about-genomics/fact-sheets/Genetic-Engineering",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "pharmacogenomics",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Pharmacogenomics",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ncbi.nlm.nih.gov/pharmacogenomics/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+{
+    "history": [
+        {
+            "query": "classical music",
+            "results": [
+                {
+                    "link": "https://www.classicfm.com/discover-music/latest/classical-music/",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.bbc.co.uk/music/genres/classical",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://www.gramophone.co.uk/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "human-computer interaction",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://hci.stanford.edu/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "renewable energy",
+            "results": [
+                {
+                    "link": "https://www.energy.gov/science-innovation/clean-energy",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.iea.org/topics/renewables",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "synthetic biology",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Synthetic_biology",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.nature.com/syntheticbiology",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "environmental science",
+            "results": [
+                {
+                    "link": "https://www.nature.com/subjects/environmental-sciences",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.sciencedirect.com/journal/environmental-science-and-policy",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "renewable materials",
+            "results": [
+                {
+                    "link": "https://www.britannica.com/science/renewable-resource",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.energy.gov/eere/bioenergy/renewable-materials",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://www.sciencedirect.com/topics/chemistry/renewable-material",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "self-driving cars",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Self-driving_car",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/self-driving-cars",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "smart cities",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Smart_city",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/smarterplanet/us/en/smarter_cities/overview/",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "machine learning",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Machine_learning",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/machine-learning",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "quantum mechanics",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Quantum_mechanics",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://plato.stanford.edu/entries/qm/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "astrobiology",
+            "results": [
+                {
+                    "link": "https://astrobiology.nasa.gov/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.sciencedirect.com/topics/earth-and-planetary-sciences/astrobiology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "bioinformatics tools",
+            "results": [
+                {
+                    "link": "https://www.ncbi.nlm.nih.gov/tools/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/List_of_bioinformatics_tools",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "stem cell research",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Stem_cell_research",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nih.gov/research-training/stem-cell-research",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "cosmology",
+            "results": [
+                {
+                    "link": "https://www.cfa.harvard.edu/research/topic/cosmology",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.space.com/cosmology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        }
+    ]
+}

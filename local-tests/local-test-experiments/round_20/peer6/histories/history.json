@@ -1,0 +1,208 @@
+{
+    "history": [
+        {
+            "query": "biotechnology",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Biotechnology",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.britannica.com/science/biotechnology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "self-driving cars",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Self-driving_car",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/self-driving-cars",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "nanotechnology",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Nanotechnology",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/nanotechnology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "neuroscience",
+            "results": [
+                {
+                    "link": "https://www.neurosciencenews.com/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nih.gov/health-information/your-healthiest-self-wellness-toolkits",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "proteomics",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Proteomics",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nature.com/proteomics",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "bioinformatics tools",
+            "results": [
+                {
+                    "link": "https://www.ncbi.nlm.nih.gov/tools/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/List_of_bioinformatics_tools",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "cybersecurity",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Cybersecurity",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/security/cybersecurity",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "CRISPR technology",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/CRISPR",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.britannica.com/technology/CRISPR",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "ancient civilizations",
+            "results": [
+                {
+                    "link": "https://www.history.com/topics/ancient-history",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nationalgeographic.com/history/history-of-civilization",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.khanacademy.org/humanities/world-history/ancient-medieval",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "renewable energy",
+            "results": [
+                {
+                    "link": "https://www.energy.gov/science-innovation/clean-energy",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.iea.org/topics/renewables",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "genome editing",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Genome_editing",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nature.com/genome-editing",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "quantum cryptography",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Quantum_cryptography",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/quantum/quantum-cryptography",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "bioethics",
+            "results": [
+                {
+                    "link": "https://www.bioethics.net/",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://bioethics.hms.harvard.edu/",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://www.nuffieldbioethics.org/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "pharmacogenomics",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Pharmacogenomics",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ncbi.nlm.nih.gov/pharmacogenomics/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        }
+    ]
+}

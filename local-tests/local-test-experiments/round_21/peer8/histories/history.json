@@ -1,0 +1,208 @@
+{
+    "history": [
+        {
+            "query": "augmented reality",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Augmented_reality",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/augmented-reality",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "nanotechnology",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Nanotechnology",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/nanotechnology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "modern art",
+            "results": [
+                {
+                    "link": "https://www.moma.org/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.tate.org.uk/art/modern-art",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.artsy.net/gene/modern-art",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "5G technology",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/5G",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/5g",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "genome editing",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Genome_editing",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nature.com/genome-editing",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "quantum mechanics",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Quantum_mechanics",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://plato.stanford.edu/entries/qm/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "astrophysics",
+            "results": [
+                {
+                    "link": "https://www.nasa.gov/subject/6897/astrophysics/",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://astrophysics.gsfc.nasa.gov/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "renewable fuels",
+            "results": [
+                {
+                    "link": "https://www.energy.gov/eere/bioenergy/renewable-fuels",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.iea.org/topics/renewables/bioenergy",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "computational biology",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Computational_biology",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nature.com/computationalbiology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "self-driving cars",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Self-driving_car",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/self-driving-cars",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "astrophysics",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Astrophysics",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nasa.gov/astrophysics",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "ancient civilizations",
+            "results": [
+                {
+                    "link": "https://www.history.com/topics/ancient-history",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nationalgeographic.com/history/history-of-civilization",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.khanacademy.org/humanities/world-history/ancient-medieval",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "quantum cryptography",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Quantum_cryptography",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/quantum/quantum-cryptography",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "deep learning",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Deep_learning",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.deeplearning.ai/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        }
+    ]
+}

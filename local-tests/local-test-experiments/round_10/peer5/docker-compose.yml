@@ -1,0 +1,58 @@
+name: peer5
+services:
+  yacy-cf-backend-5:
+    container_name: yacy-cf-backend-5
+    depends_on:
+    - yacy-server-5
+    environment:
+    - FLASK_ENV=development
+    - YACY_USERNAME=admin
+    - YACY_PASSWORD=yacy
+    - YACY_PORT=8097
+    - YACY_SERVICE=yacy-server-5
+    - SERVER_FLASK_HOST=0.0.0.0
+    - SERVER_FLASK_PORT=3007
+    - SOCKET_HOST=0.0.0.0
+    - SOCKET_PORT=8197
+    - DEBUG_ONLY_LISTEN=0
+    - DEBUG_AUTO_WHITELIST=1
+    - DEBUG_AUTO_WHITELIST_NUM_NODES=10
+    expose:
+    - '3007'
+    - '8197'
+    hostname: yacy-cf-backend-5
+    image: dul800/yacy_cf_backend:1.0
+    ports:
+    - 3007:3007
+    - 8197:8197
+    restart: always
+    volumes:
+    - ./evaluation_results:/yacy_cf_backend/resources/data
+    - ./histories:/yacy_cf_backend/resources/history
+    - ./whitelist:/yacy_cf_backend/resources/whitelist
+  yacy-cf-frontend-5:
+    container_name: yacy-cf-frontend-5
+    depends_on:
+    - yacy-cf-backend-5
+    environment:
+    - REACT_APP_API_PORT=3007
+    - REACT_APP_BACKEND_ADDRESS=localhost
+    - PORT=4007
+    expose:
+    - '4007'
+    image: dul800/yacy_cf_frontend:latest
+    ports:
+    - 4007:4007
+    restart: always
+  yacy-server-5:
+    container_name: yacy-server-5
+    expose:
+    - '8097'
+    hostname: yacy-server-5
+    image: yacy/yacy_search_server:latest
+    ports:
+    - 8097:8097
+    - 8449:8449
+version: '0.2'
+volumes:
+  evaluation_results: null

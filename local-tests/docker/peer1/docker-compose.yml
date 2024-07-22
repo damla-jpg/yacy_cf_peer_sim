@@ -1,0 +1,58 @@
+name: peer1
+services:
+  yacy-cf-backend-1:
+    container_name: yacy-cf-backend-1
+    depends_on:
+    - yacy-server-1
+    environment:
+    - FLASK_ENV=development
+    - YACY_USERNAME=admin
+    - YACY_PASSWORD=yacy
+    - YACY_PORT=8093
+    - YACY_SERVICE=yacy-server-1
+    - SERVER_FLASK_HOST=0.0.0.0
+    - SERVER_FLASK_PORT=3003
+    - SOCKET_HOST=0.0.0.0
+    - SOCKET_PORT=8193
+    - DEBUG_ONLY_LISTEN=0
+    - DEBUG_AUTO_WHITELIST=1
+    - DEBUG_AUTO_WHITELIST_NUM_NODES=3
+    expose:
+    - '3003'
+    - '8193'
+    hostname: yacy-cf-backend-1
+    image: dul800/yacy_cf_backend:1.0
+    ports:
+    - 3003:3003
+    - 8193:8193
+    restart: always
+    volumes:
+    - ./evaluation_results:/yacy_cf_backend/resources/data
+    - ./histories:/yacy_cf_backend/resources/history
+    - ./whitelist:/yacy_cf_backend/resources/whitelist
+  yacy-cf-frontend-1:
+    container_name: yacy-cf-frontend-1
+    depends_on:
+    - yacy-cf-backend-1
+    environment:
+    - REACT_APP_API_PORT=3003
+    - REACT_APP_BACKEND_ADDRESS=localhost
+    - PORT=4003
+    expose:
+    - '4003'
+    image: dul800/yacy_cf_frontend:latest
+    ports:
+    - 4003:4003
+    restart: always
+  yacy-server-1:
+    container_name: yacy-server-1
+    expose:
+    - '8093'
+    hostname: yacy-server-1
+    image: yacy/yacy_search_server:latest
+    ports:
+    - 8093:8093
+    - 8445:8445
+version: '0.2'
+volumes:
+  evaluation_results: null
