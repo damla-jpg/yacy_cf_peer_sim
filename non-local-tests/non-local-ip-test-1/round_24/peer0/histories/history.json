@@ -1,0 +1,200 @@
+{
+    "history": [
+        {
+            "query": "self-driving cars",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Self-driving_car",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/self-driving-cars",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "genomic data",
+            "results": [
+                {
+                    "link": "https://www.ncbi.nlm.nih.gov/genbank/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Genomics_Data",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "genetic engineering",
+            "results": [
+                {
+                    "link": "https://www.britannica.com/science/genetic-engineering",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.genome.gov/about-genomics/fact-sheets/Genetic-Engineering",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "data science",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Data_science",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/data-science-intro",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "microbiome",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Microbiome",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nature.com/microbiome",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "urban planning",
+            "results": [
+                {
+                    "link": "https://www.planning.org/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.planetizen.com/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "stem cell research",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Stem_cell_research",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nih.gov/research-training/stem-cell-research",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "artificial intelligence ethics",
+            "results": [
+                {
+                    "link": "https://www.weforum.org/agenda/2020/10/ai-ethics-artificial-intelligence/",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.brookings.edu/research/ai-ethics/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "digital twins",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Digital_twin",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/digital-twin",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "quantum mechanics",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Quantum_mechanics",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://plato.stanford.edu/entries/qm/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "renewable fuels",
+            "results": [
+                {
+                    "link": "https://www.energy.gov/eere/bioenergy/renewable-fuels",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.iea.org/topics/renewables/bioenergy",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "blockchain",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Blockchain",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/blockchain/what-is-blockchain",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "neural networks",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Artificial_neural_network",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/neural-networks",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "gene therapy",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Gene_therapy",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nih.gov/health-information/gene-therapy",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        }
+    ]
+}

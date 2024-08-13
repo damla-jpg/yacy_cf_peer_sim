@@ -1,0 +1,216 @@
+{
+    "history": [
+        {
+            "query": "stem cell research",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Stem_cell_research",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nih.gov/research-training/stem-cell-research",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "behavioral economics",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Behavioral_economics",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.behavioraleconomics.com/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "bioethics",
+            "results": [
+                {
+                    "link": "https://www.bioethics.net/",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://bioethics.hms.harvard.edu/",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://www.nuffieldbioethics.org/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "artificial intelligence ethics",
+            "results": [
+                {
+                    "link": "https://www.weforum.org/agenda/2020/10/ai-ethics-artificial-intelligence/",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.brookings.edu/research/ai-ethics/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "edge computing",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Edge_computing",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/edge-computing",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "neural networks",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Artificial_neural_network",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/neural-networks",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "biomaterials",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Biomaterial",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.sciencedirect.com/topics/materials-science/biomaterials",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "biotechnology",
+            "results": [
+                {
+                    "link": "https://www.britannica.com/science/biotechnology",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.bio.org/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "ancient civilizations",
+            "results": [
+                {
+                    "link": "https://www.history.com/topics/ancient-history",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nationalgeographic.com/history/history-of-civilization",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.khanacademy.org/humanities/world-history/ancient-medieval",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "modern art",
+            "results": [
+                {
+                    "link": "https://www.moma.org/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.tate.org.uk/art/modern-art",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.artsy.net/gene/modern-art",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "classical music",
+            "results": [
+                {
+                    "link": "https://www.classicfm.com/discover-music/latest/classical-music/",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.bbc.co.uk/music/genres/classical",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://www.gramophone.co.uk/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "genomic data",
+            "results": [
+                {
+                    "link": "https://www.ncbi.nlm.nih.gov/genbank/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Genomics_Data",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "environmental science",
+            "results": [
+                {
+                    "link": "https://www.nature.com/subjects/environmental-sciences",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.sciencedirect.com/journal/environmental-science-and-policy",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "biotechnology",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Biotechnology",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.britannica.com/science/biotechnology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        }
+    ]
+}

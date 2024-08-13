@@ -1,0 +1,212 @@
+{
+    "history": [
+        {
+            "query": "environmental science",
+            "results": [
+                {
+                    "link": "https://www.nature.com/subjects/environmental-sciences",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.sciencedirect.com/journal/environmental-science-and-policy",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "digital twins",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Digital_twin",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/digital-twin",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "machine learning",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Machine_learning",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/machine-learning",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "fintech",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Financial_technology",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/fintech",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "renewable fuels",
+            "results": [
+                {
+                    "link": "https://www.energy.gov/eere/bioenergy/renewable-fuels",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.iea.org/topics/renewables/bioenergy",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "renewable water resources",
+            "results": [
+                {
+                    "link": "https://www.unwater.org/water-facts/renewable-resources",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.weforum.org/agenda/2019/08/5-innovative-solutions-to-water-scarcity/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "bioethics",
+            "results": [
+                {
+                    "link": "https://www.bioethics.net/",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://bioethics.hms.harvard.edu/",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://www.nuffieldbioethics.org/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "synthetic biology",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Synthetic_biology",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.nature.com/syntheticbiology",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "classical music",
+            "results": [
+                {
+                    "link": "https://www.classicfm.com/discover-music/latest/classical-music/",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.bbc.co.uk/music/genres/classical",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://www.gramophone.co.uk/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "genomic data",
+            "results": [
+                {
+                    "link": "https://www.ncbi.nlm.nih.gov/genbank/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Genomics_Data",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "5G technology",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/5G",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/5g",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "machine vision",
+            "results": [
+                {
+                    "link": "https://www.machvision.com/",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://www.ni.com/en-us/innovations/machine-vision.html",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Machine_vision",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "microbiology",
+            "results": [
+                {
+                    "link": "https://www.asm.org/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Microbiology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "geology",
+            "results": [
+                {
+                    "link": "https://www.usgs.gov/",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.britannica.com/science/geology",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        }
+    ]
+}

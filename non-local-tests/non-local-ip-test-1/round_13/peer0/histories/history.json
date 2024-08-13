@@ -1,0 +1,200 @@
+{
+    "history": [
+        {
+            "query": "neuroscience",
+            "results": [
+                {
+                    "link": "https://www.neurosciencenews.com/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nih.gov/health-information/your-healthiest-self-wellness-toolkits",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "robotics",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Robotics",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/robotics",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "renewable fuels",
+            "results": [
+                {
+                    "link": "https://www.energy.gov/eere/bioenergy/renewable-fuels",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.iea.org/topics/renewables/bioenergy",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "quantum entanglement",
+            "results": [
+                {
+                    "link": "https://www.scientificamerican.com/article/quantum-entanglement/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nature.com/articles/446021a",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "cryptocurrency",
+            "results": [
+                {
+                    "link": "https://www.coindesk.com/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.investopedia.com/terms/c/cryptocurrency.asp",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "geology",
+            "results": [
+                {
+                    "link": "https://www.usgs.gov/",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.britannica.com/science/geology",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "evolutionary biology",
+            "results": [
+                {
+                    "link": "https://evolution.berkeley.edu/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nature.com/subjects/evolutionary-biology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "cybersecurity",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Cybersecurity",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/security/cybersecurity",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "nanomedicine",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Nanomedicine",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.nature.com/nanomedicine",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "stem cell research",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Stem_cell_research",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nih.gov/research-training/stem-cell-research",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "nanotechnology",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Nanotechnology",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/nanotechnology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "microbiome",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Microbiome",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nature.com/microbiome",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "biomaterials",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Biomaterial",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.sciencedirect.com/topics/materials-science/biomaterials",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "urban planning",
+            "results": [
+                {
+                    "link": "https://www.planning.org/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.planetizen.com/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        }
+    ]
+}

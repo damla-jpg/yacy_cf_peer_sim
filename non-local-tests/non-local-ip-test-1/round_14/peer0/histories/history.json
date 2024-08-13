@@ -1,0 +1,204 @@
+{
+    "history": [
+        {
+            "query": "paleontology",
+            "results": [
+                {
+                    "link": "https://www.nhm.ac.uk/discover/paleontology.html",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://www.ucmp.berkeley.edu/",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://www.smithsonianmag.com/science-nature/paleontology/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "cloud computing",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Cloud_computing",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/cloud-computing",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "digital twins",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Digital_twin",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/digital-twin",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "biotechnology",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Biotechnology",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.britannica.com/science/biotechnology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "stem cell research",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Stem_cell_research",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nih.gov/research-training/stem-cell-research",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "nanotechnology",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Nanotechnology",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/nanotechnology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "artificial intelligence ethics",
+            "results": [
+                {
+                    "link": "https://www.weforum.org/agenda/2020/10/ai-ethics-artificial-intelligence/",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.brookings.edu/research/ai-ethics/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "internet of things",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Internet_of_things",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/blog/internet-of-things",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "space exploration",
+            "results": [
+                {
+                    "link": "https://www.nasa.gov/topics/solarsystem/index.html",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.space.com/space-exploration",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "virtual reality",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Virtual_reality",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/virtual-reality",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "renewable energy",
+            "results": [
+                {
+                    "link": "https://www.energy.gov/science-innovation/clean-energy",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.iea.org/topics/renewables",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "artificial intelligence",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/what-is-artificial-intelligence",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "computational chemistry",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Computational_chemistry",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nature.com/computationalchemistry",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "cryptocurrency",
+            "results": [
+                {
+                    "link": "https://www.coindesk.com/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.investopedia.com/terms/c/cryptocurrency.asp",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 4
+        }
+    ]
+}

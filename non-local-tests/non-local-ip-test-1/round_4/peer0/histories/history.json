@@ -1,0 +1,200 @@
+{
+    "history": [
+        {
+            "query": "quantum computing",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Quantum_computing",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/quantum-computing/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "renewable energy",
+            "results": [
+                {
+                    "link": "https://www.energy.gov/science-innovation/clean-energy",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.iea.org/topics/renewables",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "machine learning algorithms",
+            "results": [
+                {
+                    "link": "https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://towardsdatascience.com/machine-learning-algorithms-24eec0c117d4",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "anthropology",
+            "results": [
+                {
+                    "link": "https://www.americananthro.org/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Anthropology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "oceanography",
+            "results": [
+                {
+                    "link": "https://oceanexplorer.noaa.gov/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Oceanography",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "fintech",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Financial_technology",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/fintech",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "microbiome",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Microbiome",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nature.com/microbiome",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "linguistics",
+            "results": [
+                {
+                    "link": "https://www.linguisticsociety.org/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Linguistics",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "astrobiology",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Astrobiology",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://astrobiology.nasa.gov/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "digital twins",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Digital_twin",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/digital-twin",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "bioinformatics tools",
+            "results": [
+                {
+                    "link": "https://www.ncbi.nlm.nih.gov/tools/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/List_of_bioinformatics_tools",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "internet of things",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Internet_of_things",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/blog/internet-of-things",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "machine learning",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Machine_learning",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/machine-learning",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "renewable fuels",
+            "results": [
+                {
+                    "link": "https://www.energy.gov/eere/bioenergy/renewable-fuels",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.iea.org/topics/renewables/bioenergy",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 4
+        }
+    ]
+}

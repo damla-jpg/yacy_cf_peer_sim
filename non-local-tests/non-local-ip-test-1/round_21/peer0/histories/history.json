@@ -1,0 +1,208 @@
+{
+    "history": [
+        {
+            "query": "anthropology",
+            "results": [
+                {
+                    "link": "https://www.americananthro.org/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Anthropology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "classical music",
+            "results": [
+                {
+                    "link": "https://www.classicfm.com/discover-music/latest/classical-music/",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.bbc.co.uk/music/genres/classical",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://www.gramophone.co.uk/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "blockchain",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Blockchain",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/blockchain/what-is-blockchain",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "genomic data",
+            "results": [
+                {
+                    "link": "https://www.ncbi.nlm.nih.gov/genbank/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Genomics_Data",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "quantum computing",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Quantum_computing",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/quantum-computing/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "neuroscience",
+            "results": [
+                {
+                    "link": "https://www.neurosciencenews.com/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nih.gov/health-information/your-healthiest-self-wellness-toolkits",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "bioethics",
+            "results": [
+                {
+                    "link": "https://www.bioethics.net/",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://bioethics.hms.harvard.edu/",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://www.nuffieldbioethics.org/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "quantum entanglement",
+            "results": [
+                {
+                    "link": "https://www.scientificamerican.com/article/quantum-entanglement/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nature.com/articles/446021a",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "nanotechnology",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Nanotechnology",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/nanotechnology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "microbiome",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Microbiome",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nature.com/microbiome",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "big data",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Big_data",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/analytics/big-data-analytics",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "cloud computing",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Cloud_computing",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/cloud-computing",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "bioinformatics tools",
+            "results": [
+                {
+                    "link": "https://www.ncbi.nlm.nih.gov/tools/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/List_of_bioinformatics_tools",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "microbiology",
+            "results": [
+                {
+                    "link": "https://www.asm.org/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Microbiology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        }
+    ]
+}

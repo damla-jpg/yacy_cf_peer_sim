@@ -1,0 +1,204 @@
+{
+    "history": [
+        {
+            "query": "biotechnology",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Biotechnology",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.britannica.com/science/biotechnology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "quantum computing",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Quantum_computing",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/quantum-computing/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "deep learning",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Deep_learning",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.deeplearning.ai/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "machine vision",
+            "results": [
+                {
+                    "link": "https://www.machvision.com/",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://www.ni.com/en-us/innovations/machine-vision.html",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Machine_vision",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "biotechnology",
+            "results": [
+                {
+                    "link": "https://www.britannica.com/science/biotechnology",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.bio.org/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "cosmology",
+            "results": [
+                {
+                    "link": "https://www.cfa.harvard.edu/research/topic/cosmology",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.space.com/cosmology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "data science",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Data_science",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/data-science-intro",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "behavioral economics",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Behavioral_economics",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.behavioraleconomics.com/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "genetic engineering",
+            "results": [
+                {
+                    "link": "https://www.britannica.com/science/genetic-engineering",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.genome.gov/about-genomics/fact-sheets/Genetic-Engineering",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "edge computing",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Edge_computing",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/edge-computing",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "pharmacogenomics",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Pharmacogenomics",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ncbi.nlm.nih.gov/pharmacogenomics/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "virtual reality",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Virtual_reality",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/virtual-reality",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "sustainable development",
+            "results": [
+                {
+                    "link": "https://sdgs.un.org/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.worldbank.org/en/topic/sustainabledevelopment",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "urban planning",
+            "results": [
+                {
+                    "link": "https://www.planning.org/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.planetizen.com/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        }
+    ]
+}

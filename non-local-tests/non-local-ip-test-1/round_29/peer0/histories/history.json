@@ -1,0 +1,212 @@
+{
+    "history": [
+        {
+            "query": "classical music",
+            "results": [
+                {
+                    "link": "https://www.classicfm.com/discover-music/latest/classical-music/",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.bbc.co.uk/music/genres/classical",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://www.gramophone.co.uk/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "nanomedicine",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Nanomedicine",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.nature.com/nanomedicine",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "machine learning",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Machine_learning",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/machine-learning",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "modern art",
+            "results": [
+                {
+                    "link": "https://www.moma.org/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.tate.org.uk/art/modern-art",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.artsy.net/gene/modern-art",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "virtual reality",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Virtual_reality",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/virtual-reality",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "quantum computing",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Quantum_computing",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/quantum-computing/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "smart cities",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Smart_city",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/smarterplanet/us/en/smarter_cities/overview/",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "sustainable development",
+            "results": [
+                {
+                    "link": "https://sdgs.un.org/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.worldbank.org/en/topic/sustainabledevelopment",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "augmented reality",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Augmented_reality",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/augmented-reality",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "renewable materials",
+            "results": [
+                {
+                    "link": "https://www.britannica.com/science/renewable-resource",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.energy.gov/eere/bioenergy/renewable-materials",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://www.sciencedirect.com/topics/chemistry/renewable-material",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "artificial intelligence ethics",
+            "results": [
+                {
+                    "link": "https://www.weforum.org/agenda/2020/10/ai-ethics-artificial-intelligence/",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.brookings.edu/research/ai-ethics/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "quantum cryptography",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Quantum_cryptography",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/quantum/quantum-cryptography",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "quantum mechanics",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Quantum_mechanics",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://plato.stanford.edu/entries/qm/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "genetic engineering",
+            "results": [
+                {
+                    "link": "https://www.britannica.com/science/genetic-engineering",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.genome.gov/about-genomics/fact-sheets/Genetic-Engineering",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        }
+    ]
+}

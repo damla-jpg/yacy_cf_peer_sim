@@ -1,0 +1,208 @@
+{
+    "history": [
+        {
+            "query": "machine vision",
+            "results": [
+                {
+                    "link": "https://www.machvision.com/",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://www.ni.com/en-us/innovations/machine-vision.html",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Machine_vision",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "linguistics",
+            "results": [
+                {
+                    "link": "https://www.linguisticsociety.org/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Linguistics",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "quantum entanglement",
+            "results": [
+                {
+                    "link": "https://www.scientificamerican.com/article/quantum-entanglement/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nature.com/articles/446021a",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "paleoclimatology",
+            "results": [
+                {
+                    "link": "https://www.ncdc.noaa.gov/data-access/paleoclimatology-data",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.britannica.com/science/paleoclimatology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "genomic data",
+            "results": [
+                {
+                    "link": "https://www.ncbi.nlm.nih.gov/genbank/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Genomics_Data",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "space exploration",
+            "results": [
+                {
+                    "link": "https://www.nasa.gov/topics/solarsystem/index.html",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.space.com/space-exploration",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "classical music",
+            "results": [
+                {
+                    "link": "https://www.classicfm.com/discover-music/latest/classical-music/",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.bbc.co.uk/music/genres/classical",
+                    "frequency": 1
+                },
+                {
+                    "link": "https://www.gramophone.co.uk/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "quantum computing",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Quantum_computing",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/quantum-computing/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "blockchain",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Blockchain",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/blockchain/what-is-blockchain",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "genetic engineering",
+            "results": [
+                {
+                    "link": "https://www.britannica.com/science/genetic-engineering",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.genome.gov/about-genomics/fact-sheets/Genetic-Engineering",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "synthetic biology",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Synthetic_biology",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.nature.com/syntheticbiology",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "behavioral economics",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Behavioral_economics",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.behavioraleconomics.com/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "self-driving cars",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Self-driving_car",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/self-driving-cars",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "deep learning",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Deep_learning",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.deeplearning.ai/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        }
+    ]
+}

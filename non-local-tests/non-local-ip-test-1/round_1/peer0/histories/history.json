@@ -1,0 +1,204 @@
+{
+    "history": [
+        {
+            "query": "modern art",
+            "results": [
+                {
+                    "link": "https://www.moma.org/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.tate.org.uk/art/modern-art",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.artsy.net/gene/modern-art",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "CRISPR technology",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/CRISPR",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.britannica.com/technology/CRISPR",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "renewable fuels",
+            "results": [
+                {
+                    "link": "https://www.energy.gov/eere/bioenergy/renewable-fuels",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.iea.org/topics/renewables/bioenergy",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "blockchain",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Blockchain",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/blockchain/what-is-blockchain",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "evolutionary biology",
+            "results": [
+                {
+                    "link": "https://evolution.berkeley.edu/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nature.com/subjects/evolutionary-biology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "5G technology",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/5G",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/5g",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "microbiology",
+            "results": [
+                {
+                    "link": "https://www.asm.org/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Microbiology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "deep learning",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Deep_learning",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.deeplearning.ai/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "nanomedicine",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Nanomedicine",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.nature.com/nanomedicine",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "cosmology",
+            "results": [
+                {
+                    "link": "https://www.cfa.harvard.edu/research/topic/cosmology",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.space.com/cosmology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "genome editing",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Genome_editing",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nature.com/genome-editing",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "biotechnology",
+            "results": [
+                {
+                    "link": "https://www.britannica.com/science/biotechnology",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.bio.org/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "smart cities",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Smart_city",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/smarterplanet/us/en/smarter_cities/overview/",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 4
+        },
+        {
+            "query": "bioinformatics",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Bioinformatics",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/bioinformatics",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        }
+    ]
+}

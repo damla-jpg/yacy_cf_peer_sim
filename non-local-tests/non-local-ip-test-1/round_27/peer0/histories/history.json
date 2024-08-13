@@ -1,0 +1,200 @@
+{
+    "history": [
+        {
+            "query": "genomics",
+            "results": [
+                {
+                    "link": "https://www.genome.gov/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Genomics",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "biofuel",
+            "results": [
+                {
+                    "link": "https://www.energy.gov/eere/bioenergy/biofuels",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ieabioenergy.com/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "augmented reality",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Augmented_reality",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/augmented-reality",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "human-computer interaction",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://hci.stanford.edu/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "urban planning",
+            "results": [
+                {
+                    "link": "https://www.planning.org/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.planetizen.com/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "pharmacogenomics",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Pharmacogenomics",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ncbi.nlm.nih.gov/pharmacogenomics/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "artificial intelligence",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+                    "frequency": 3
+                },
+                {
+                    "link": "https://www.ibm.com/cloud/learn/what-is-artificial-intelligence",
+                    "frequency": 2
+                }
+            ],
+            "total_frequency": 5
+        },
+        {
+            "query": "quantum computing",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Quantum_computing",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/quantum-computing/",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "quantum entanglement",
+            "results": [
+                {
+                    "link": "https://www.scientificamerican.com/article/quantum-entanglement/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nature.com/articles/446021a",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "self-driving cars",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Self-driving_car",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.ibm.com/blogs/self-driving-cars",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "biomaterials",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Biomaterial",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.sciencedirect.com/topics/materials-science/biomaterials",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "microbiology",
+            "results": [
+                {
+                    "link": "https://www.asm.org/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Microbiology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "computational biology",
+            "results": [
+                {
+                    "link": "https://en.wikipedia.org/wiki/Computational_biology",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://www.nature.com/computationalbiology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        },
+        {
+            "query": "anthropology",
+            "results": [
+                {
+                    "link": "https://www.americananthro.org/",
+                    "frequency": 2
+                },
+                {
+                    "link": "https://en.wikipedia.org/wiki/Anthropology",
+                    "frequency": 1
+                }
+            ],
+            "total_frequency": 3
+        }
+    ]
+}
